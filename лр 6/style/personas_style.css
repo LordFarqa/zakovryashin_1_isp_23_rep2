@@ -1,0 +1,78 @@
+.ibm-plex sans-thin {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+  
+.ibm-plex sans-bold-italic {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.countainer{
+    height: 100vh;
+    width: 100%;
+    background-color: #2E3440;
+    z-index: -2;
+    margin: 0%;
+    overflow-y: hidden;
+    
+    
+}
+.option {
+    font-size: 4vh;
+    height:30%;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: #4c566a00;
+    cursor: pointer;
+    border-right: 2px solid #D8DEE9;
+    border-left: 4px solid #D8DEE9;
+    border-bottom: 2px solid #D8DEE9;
+    border-top: 1px solid #D8DEE9;
+    z-index: 6;
+    transition: 2s;
+
+}
+#panel {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 30%;
+    background-color: #2E3440;;
+    overflow: hidden;
+    opacity: 0.8;
+    z-index: 9999;
+ 
+
+}
+@media (max-width: 800px) {
+    .option {
+        font-size: 0.8em;
+        width: 100%;
+        margin-left: 0;
+    }
+}
+@media screen and (width < 800px) {
+    #panel{
+        width: 100%;
+        height: 30%;
+    
+    }
+}
+.img{
+    position: fixed;
+    bottom: 0;
+    background: url('../assets/image/scale_1200.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}

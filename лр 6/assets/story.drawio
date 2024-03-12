@@ -1,0 +1,1012 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T08:35:30.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aTlSt-_bvgzeaCbkcvYR" version="24.0.1" type="device" pages="5">
+  <diagram name="Страница — 1" id="7-pWmDGy4ug9OQKNB9qS">
+    <mxGraphModel dx="769" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-1" target="4uhOy6yQnAFbEJ0-f2jI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-1" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-2" target="4uhOy6yQnAFbEJ0-f2jI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-2" target="4uhOy6yQnAFbEJ0-f2jI-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-2" value="Меню" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-3" value="Играть&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-4" target="4uhOy6yQnAFbEJ0-f2jI-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-4" target="4uhOy6yQnAFbEJ0-f2jI-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-4" value="Справка по сюжету, гайд прохождения" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-5" target="4uhOy6yQnAFbEJ0-f2jI-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-5" target="4uhOy6yQnAFbEJ0-f2jI-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-5" value="Персонажи" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-6" target="4uhOy6yQnAFbEJ0-f2jI-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-6" value="Джеймс Мак Гилл" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-7" value="Скольский Джими" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-8" target="4uhOy6yQnAFbEJ0-f2jI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-8" target="4uhOy6yQnAFbEJ0-f2jI-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6qmsDlE-M0WqZowAZv8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4uhOy6yQnAFbEJ0-f2jI-8" target="_6qmsDlE-M0WqZowAZv8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-8" value="Кэтелманы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-9" value="Бетси Кетелман" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-10" value="Крейг Кетелман" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uhOy6yQnAFbEJ0-f2jI-17" value="Сюжет(Блок с хема ипояснения)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6qmsDlE-M0WqZowAZv8-1" value="Туко Саламанка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3hrHrkihgITtCHGFarq5" name="Страница — 2">
+    <mxGraphModel dx="2283" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qra5FxyP9-iLbpL3b125-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-1" target="qra5FxyP9-iLbpL3b125-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-1" value="Играть" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-2" target="qra5FxyP9-iLbpL3b125-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-2" value="Сцена как по телевизору идет репортаж о том что казначей Кетелман украл полтора миллиона долларов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="120" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-3" target="qra5FxyP9-iLbpL3b125-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-3" value="Служебный телефон звонит" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-4" target="qra5FxyP9-iLbpL3b125-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-4" value="Взять Трубку" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-5" target="qra5FxyP9-iLbpL3b125-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-5" value="Джеймс Мак Гил верно? Вам звонит Крейг Кетелман, мне нужны ваши услуги адвоката." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="450" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-12" target="qra5FxyP9-iLbpL3b125-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-12" value="Я очень рад что вы позвонили, я готов защищать вас на суде, стратегию защиты обсудим завтра." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="670" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-15" target="qra5FxyP9-iLbpL3b125-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-15" value="Я не защищаю преступников досвидания." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-17" target="qra5FxyP9-iLbpL3b125-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-17" target="qra5FxyP9-iLbpL3b125-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-17" target="qra5FxyP9-iLbpL3b125-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-17" value="Ваше дело одно из самых крупных за последний год, дайте мне секунду все обдумать." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="555" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-20" target="qra5FxyP9-iLbpL3b125-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-20" value="Эта секс по телефону?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-27" target="qra5FxyP9-iLbpL3b125-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-27" value="В телефоне слышаться гудки, ваш собеседник бросил трубку." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-30" target="qra5FxyP9-iLbpL3b125-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-30" value="Лечь спать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-33" target="qra5FxyP9-iLbpL3b125-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-33" target="qra5FxyP9-iLbpL3b125-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-33" value="Что эм нет вы пьяны ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-34" target="qra5FxyP9-iLbpL3b125-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-34" target="qra5FxyP9-iLbpL3b125-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-34" value="Простите, это я не вам, вернемся к делу?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-37" target="qra5FxyP9-iLbpL3b125-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-37" value="Что на тебе надето?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-41" target="qra5FxyP9-iLbpL3b125-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-41" value="В телефоне слышаться гудки, ваш собеседник бросил трубку." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-42" target="qra5FxyP9-iLbpL3b125-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-42" value="Лечь спать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-45" value="Я очень рад что вы позвонили, я готов защищать вас на суде, стратегию защиты обсудим завтра." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-620" y="840" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-46" target="qra5FxyP9-iLbpL3b125-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-46" value="Я не защищаю преступников досвидания." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-50" target="qra5FxyP9-iLbpL3b125-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-50" value="В телефоне слышаться гудки, ваш собеседник бросил трубку." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-53" value="Переход на лист 4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-57" target="qra5FxyP9-iLbpL3b125-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-57" value="Лечь спать шаг первый на пути к глупой концовке." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-60" value="Лист 5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-61" target="qra5FxyP9-iLbpL3b125-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-61" value="Лечь спать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-65" target="qra5FxyP9-iLbpL3b125-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-65" value="из телефона, хорошо предлогаю завтра в 10 встретиться у вас офисе." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-66" target="qra5FxyP9-iLbpL3b125-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-66" value="Вы некоторое время смотрите на свою бедную лачугу и не знаете что ответить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-67" target="qra5FxyP9-iLbpL3b125-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-67" value="Знаете давайте лучше в кафе Чачос мучачос, а то у меня в офисе ремонт пыльно." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="685" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-73" target="qra5FxyP9-iLbpL3b125-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-73" target="qra5FxyP9-iLbpL3b125-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-73" value="Из телефона - эм ну ладно, а какая там кухня ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-850" y="685" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-75" target="qra5FxyP9-iLbpL3b125-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-75" value="&amp;nbsp;Я ее не очень люблю, но раз вы настаиваете я согласен." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-970" y="540" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-77" target="qra5FxyP9-iLbpL3b125-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-77" value="Как скажите, издать звук гудка и остаться на линии" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-665" y="545" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-79" value="Лечь спать переход на лист 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-947" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-73" target="qra5FxyP9-iLbpL3b125-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-83" target="qra5FxyP9-iLbpL3b125-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-83" value="Мексиканская конечно, мы же в Альбукерке" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-960" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-86" target="qra5FxyP9-iLbpL3b125-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-86" value="Из телефона - закончите разговор, у меня залипла кнопка." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-970" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-88" target="qra5FxyP9-iLbpL3b125-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-960" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-88" value="Бросить трубку и лечь спать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-970" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-90" target="qra5FxyP9-iLbpL3b125-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-90" target="qra5FxyP9-iLbpL3b125-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-90" value="из телефона - Але вы еще здесь ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-665" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-93" target="qra5FxyP9-iLbpL3b125-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-93" value="Да&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-665" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-94" target="qra5FxyP9-iLbpL3b125-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-94" value="Так бросайте трубку" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-665" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-99" target="qra5FxyP9-iLbpL3b125-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-99" value="Молчать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-101" target="qra5FxyP9-iLbpL3b125-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-101" value="Из телефона - Бетси спрячь деньги получше,я договорился с хорошим адвакатом, не гвоори ему про то что мы что то украли." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="425" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-103" target="qra5FxyP9-iLbpL3b125-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-103" value="-шуршание и тишина" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qra5FxyP9-iLbpL3b125-104" target="qra5FxyP9-iLbpL3b125-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-104" value="Бросить трубку" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qra5FxyP9-iLbpL3b125-107" value="Переход на лист 6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2geSEo1pv_bBml41nv0b-1" value="Лист 3 концовка Мак Гилла" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2geSEo1pv_bBml41nv0b-2" value="Лист 4 второе дело" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oB7pgTWB129OJ-zRQqxM-1" value="лист 5 Секс по телефону, рофельная концовка, изьятие адвакатской лицензии" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="460" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oB7pgTWB129OJ-zRQqxM-2" value="Лист 6 две концовки на скольского джимми" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oB7pgTWB129OJ-zRQqxM-3" value="Лист 7 Концовка с мафией, новая личность или смерть" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BigUZdDrZ0DtpHHz4d3T" name="Страница — 3">
+    <mxGraphModel dx="1744" dy="1168" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c5WWoJyi4pvTkMdlaHeg-1" target="c5WWoJyi4pvTkMdlaHeg-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-1" value="Сюжетная линия 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c5WWoJyi4pvTkMdlaHeg-2" target="c5WWoJyi4pvTkMdlaHeg-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-2" value="Вы просыпаетесь в 9 часов утра в своей кибитке." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c5WWoJyi4pvTkMdlaHeg-3" target="c5WWoJyi4pvTkMdlaHeg-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-3" value="-Черт&amp;nbsp; я уже опаздываю пора ехать в на встречу" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c5WWoJyi4pvTkMdlaHeg-5" target="c5WWoJyi4pvTkMdlaHeg-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-5" value="Выходя из вашего &quot;офиса&quot; вы видите приклеенный к двери счет аренду помещения." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="185" y="510" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c5WWoJyi4pvTkMdlaHeg-6" target="c5WWoJyi4pvTkMdlaHeg-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-6" value="-Бла бла бла, оплата должна быть внесена до 21:00 (текущая дата)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c5WWoJyi4pvTkMdlaHeg-9" target="c5WWoJyi4pvTkMdlaHeg-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-9" value="Черт возьми, мне нужно дело Кетелмана!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c5WWoJyi4pvTkMdlaHeg-11" target="uD7CAKoIBbH6fDn1h2Dx-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WWoJyi4pvTkMdlaHeg-11" value="Сесть в машину и поехать на встречу" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-2" target="uD7CAKoIBbH6fDn1h2Dx-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-2" target="uD7CAKoIBbH6fDn1h2Dx-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-2" value="Вы то и дело смотрите на свои наручные часы, вы уже довольно сильно опаздываете." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="890" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-3" target="uD7CAKoIBbH6fDn1h2Dx-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-3" value="Зажать тапок в пол и гнать как не всебя" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-4" target="uD7CAKoIBbH6fDn1h2Dx-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-4" value="Соблюдать правила дорожного движения" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-7" target="tj0IQA6B79NcJ72kPpq--15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-7" value="Уже на повороте в кафе вы задеваете бампер какой то крутой тачки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-8" target="uD7CAKoIBbH6fDn1h2Dx-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-8" target="tj0IQA6B79NcJ72kPpq--1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-8" value="Вы серьезно опоздали на встречу" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uD7CAKoIBbH6fDn1h2Dx-11" target="tj0IQA6B79NcJ72kPpq--12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uD7CAKoIBbH6fDn1h2Dx-11" value="Войти в кафе." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tj0IQA6B79NcJ72kPpq--1" target="tj0IQA6B79NcJ72kPpq--6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tj0IQA6B79NcJ72kPpq--1" target="uD7CAKoIBbH6fDn1h2Dx-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1040" />
+              <mxPoint x="670" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--1" value="Посмотреть в окно забегаловки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tj0IQA6B79NcJ72kPpq--2" target="Nx-GGQnxf8ynJs9znxw4-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--2" value="Поехать домой" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tj0IQA6B79NcJ72kPpq--6" target="uD7CAKoIBbH6fDn1h2Dx-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1060" />
+              <mxPoint x="670" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tj0IQA6B79NcJ72kPpq--6" target="tj0IQA6B79NcJ72kPpq--2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--6" value="Вы замечаете в окне Кетелмана c cупругой" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tj0IQA6B79NcJ72kPpq--12" target="oSsXrwCkbEFnuq89NTlT-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--12" value="Дело Кетелманов концовка на Джими Мак гилла" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tj0IQA6B79NcJ72kPpq--15" target="oSsXrwCkbEFnuq89NTlT-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tj0IQA6B79NcJ72kPpq--15" value="Концовка на картель встреча с Саламанками" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-1" value="лист 7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-2" target="oSsXrwCkbEFnuq89NTlT-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-2" value="Вы входите в милый мексиканский ресторан и замечаете за столиком не по далеку&amp;nbsp; Кетелмана с супругой" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="1030" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx-GGQnxf8ynJs9znxw4-1" value="Переход на второе дело лист 4&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-7" target="oSsXrwCkbEFnuq89NTlT-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-7" target="oSsXrwCkbEFnuq89NTlT-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-7" value="Подойти к ним&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-10" target="oSsXrwCkbEFnuq89NTlT-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-10" value="Представиться и с наскока преступить к делу" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-11" target="oSsXrwCkbEFnuq89NTlT-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-11" value="Извиниться за опоздание сославшись на пробки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-15" target="oSsXrwCkbEFnuq89NTlT-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-15" value="Джеймс Мак Гилл, посвятите меня в подробности вашего дела, протянуть им договор на ваши услуги" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="680" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-20" target="oSsXrwCkbEFnuq89NTlT-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-20" value="Бетси Кетелман - моего мужа Крейга обвенили в коррупции и кражи средств из областного бюджета" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="525" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-22" target="oSsXrwCkbEFnuq89NTlT-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-22" target="oSsXrwCkbEFnuq89NTlT-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-22" value="Бетси - хотя конечно он не крал ни какие средства, он постоянно работал по 12 часов, по праздникам и выходным и мы лишь взяли то что ему положенно пока Бетси говорит, ее муж все время поддакивает. Он сильно потеет и беспокоиться" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="455" width="150" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-24" target="oSsXrwCkbEFnuq89NTlT-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-24" value="Вы - Значит денег вы не крали, дело ложь и клевета?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2035" y="620" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-26" target="oSsXrwCkbEFnuq89NTlT-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-26" value="Вы - согласно закона штата за такое хищение вашему мужу сулит восемь лет лишения свободы." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2035" y="385" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-29" target="oSsXrwCkbEFnuq89NTlT-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-29" value="Бетси- повышает голос - мой муж не крал ни цента, у нас нет ни каких денег( вы замечаете волнение на&amp;nbsp; лице её&amp;nbsp; мужа.)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2270" y="470" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-31" target="oSsXrwCkbEFnuq89NTlT-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-31" target="oSsXrwCkbEFnuq89NTlT-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-31" value="Бетси - да все верно мой муж ни украл ни цента" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-38" target="oSsXrwCkbEFnuq89NTlT-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-38" value="Бетси в бешенстве и готова разорвать вас на части." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2670" y="620" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-39" target="oSsXrwCkbEFnuq89NTlT-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-39" value="Кренг Кетелман - Бетси стой, он прав у нас нет выбора, вернем деньги и я отсижу свой срок." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2920" y="635" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-40" target="oSsXrwCkbEFnuq89NTlT-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-40" value="Бетси - А как же наши дети ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3100" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-41" target="oSsXrwCkbEFnuq89NTlT-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-41" value="Кренг - Вы будете навещать меня в тюрьме, он подписывает ваш контракт и они с бетси уходят." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3150" y="585" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-46" target="oSsXrwCkbEFnuq89NTlT-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-46" value="Вы - отлично значит мы пойдем в суд с обвинением о клевите, скажите почему вами заинтересовался прокурор, муж Бетси серьезно нервничает и пытается не смотреть вам в глаза" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2440" y="735" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-47" target="oSsXrwCkbEFnuq89NTlT-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-47" value="Вы - вы должны вернуть деньги и сознаться в преступлении&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2440" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-48" target="oSsXrwCkbEFnuq89NTlT-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-48" value="Бетси - повышая голос что вы о себе возомнили&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2630" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-52" target="oSsXrwCkbEFnuq89NTlT-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-52" value="Вы - вашему мужу грозит тюрьма это лучшее что вы можете сделать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2800" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-56" target="oSsXrwCkbEFnuq89NTlT-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-56" target="oSsXrwCkbEFnuq89NTlT-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-56" value="Бетси - мой муж крупный чиновник, логично что его будут хотеть сместить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2670" y="762.5" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3700" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-58" value="Отлично я смог их уговорить, у меня будет хороший гонорар по этой делу!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3430" y="755" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-59" target="oSsXrwCkbEFnuq89NTlT-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-59" value="Вы - обсудим защиту, на суде вы сознаетесь в коррупции и добровольно заявите о возвращении средств , так вы получите минимальный срок, примерно 6 лет&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2889" y="470" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-71" target="oSsXrwCkbEFnuq89NTlT-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-71" value="Бетси срываясь на крик - КРЕЙГ пошли отсюда, с этим адвакатишкой нам нечего ловить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3000" y="840" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-73" target="oSsXrwCkbEFnuq89NTlT-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-73" value="Они ушли не подписав договр" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-78" target="oSsXrwCkbEFnuq89NTlT-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-78" target="oSsXrwCkbEFnuq89NTlT-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-78" value="&amp;nbsp;Вы - я бы мог предложить вам несколько вариантов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2500" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-79" target="TeTj0I7tpyI8DVtLX8oe-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-79" value="Я мог бы Подать иск о превышении полномочий прокурором" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2914" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-84" target="oSsXrwCkbEFnuq89NTlT-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-84" value="Признать вину, поскульку денег у вас нет власти наложат арест на часть вашего имущетсва" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2660" y="495" width="150" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-104" value="Поехать домой" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oSsXrwCkbEFnuq89NTlT-107" target="GdFcertBKJC9EZTNIidA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSsXrwCkbEFnuq89NTlT-107" value="Концовка на скольского джимми" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2160" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-2" target="GdFcertBKJC9EZTNIidA-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-2" target="GdFcertBKJC9EZTNIidA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-2" value="Бетси - хотя конечно он не крал ни какие средства, он постоянно работал по 12 часов, по праздникам и выходным и мы лишь взяли то что ему положенно пока Бетси говорит, ее муж все время поддакивает. Он сильно потеет и беспокоиться" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2350" y="1220" width="150" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-4" target="oSsXrwCkbEFnuq89NTlT-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2770" y="1240" />
+              <mxPoint x="2770" y="1030" />
+              <mxPoint x="2340" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-4" value="Значит это все лож и клевета&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2630" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-5" target="GdFcertBKJC9EZTNIidA-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-5" value="Врать будете в суде, вметсе со мной я знаю что деньги у вас" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2630" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-9" target="GdFcertBKJC9EZTNIidA-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-9" value="Бетси - тише, люди могут услышать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-12" target="GdFcertBKJC9EZTNIidA-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-12" target="GdFcertBKJC9EZTNIidA-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-12" value="Вы - я могу предложить вам следующие варианты" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2980" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-14" target="V1ERUyfDjUg6UqQPUGvC-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-14" value="Заключить сделку с прокурором, чтобы он снял часть обвинений и уменьшить срок с 8 до 4 или 3 лет" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3150" y="1270" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GdFcertBKJC9EZTNIidA-16" target="V1ERUyfDjUg6UqQPUGvC-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GdFcertBKJC9EZTNIidA-16" value="Пойти на риск и признать вину, но перед этим заключить сделку и отдать украденное прокурору, так вы получить год или даже меньше." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3163" y="1410" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="V1ERUyfDjUg6UqQPUGvC-3" target="V1ERUyfDjUg6UqQPUGvC-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-3" value="Бетси - шепотом - деньги должны остаться у нас!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3350" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="V1ERUyfDjUg6UqQPUGvC-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3805" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-4" value="Настоять на решении&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3540" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5cBOeCN6a4BGiaHiKTzA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="V1ERUyfDjUg6UqQPUGvC-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3730" y="1292.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1ERUyfDjUg6UqQPUGvC-12" value="Бетси - если бы это сработало было бы замечательно" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3360" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-2" target="ZvrxuhtzYJCIgA208LhJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-2" target="ZvrxuhtzYJCIgA208LhJ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-2" target="ZvrxuhtzYJCIgA208LhJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-2" target="ZvrxuhtzYJCIgA208LhJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-2" value="Теперь договоримся об оплате" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3740" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-3" target="oSsXrwCkbEFnuq89NTlT-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-3" value="Вы - Миллион долларов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3910" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-8" target="ZvrxuhtzYJCIgA208LhJ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-8" value="Вы - сто тысяч&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3890" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-10" target="oSsXrwCkbEFnuq89NTlT-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-10" value="Вы - 650 тысяч" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3920" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-12" target="ZvrxuhtzYJCIgA208LhJ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-12" value="Вы - 250 тысяч" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3870" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvrxuhtzYJCIgA208LhJ-15" target="I1buO0AAWqbio2FIKH-v-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvrxuhtzYJCIgA208LhJ-15" target="6I2-g3QOgkxtiF-PCfFm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvrxuhtzYJCIgA208LhJ-15" target="6I2-g3QOgkxtiF-PCfFm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvrxuhtzYJCIgA208LhJ-15" target="I1buO0AAWqbio2FIKH-v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-15" value="Отлично я смог их уговорить, у меня будет хороший гонорар по этой делу!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4330" y="1285" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZvrxuhtzYJCIgA208LhJ-19" target="ZvrxuhtzYJCIgA208LhJ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvrxuhtzYJCIgA208LhJ-19" value="Кетелманы - мы согласны" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4210" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-1" target="TeTj0I7tpyI8DVtLX8oe-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-1" value="Вы ознакомились с делом и хорошо подготовились, теперь настал час суда, исход будет зависет от того защищаете ли вы преступника или невиновного&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3615" y="640" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-3" target="TeTj0I7tpyI8DVtLX8oe-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-3" value="Судья - Крейг Кетелман обвиняется в хищении полутора миллиона долларов из областного бюджета, по закону штата ему грозит от 6 до 10 лет тюремного заключения, и конфискация имущества на эту сумму - Защита вам есть что возразить ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3865" y="590" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TeTj0I7tpyI8DVtLX8oe-4" target="6I2-g3QOgkxtiF-PCfFm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-4" value="Конечно ваша честь" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4105" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-14" value="Отлично я смог их уговорить, у меня будет хороший гонорар по этой делу!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3130" y="345" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-16" target="TeTj0I7tpyI8DVtLX8oe-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-16" value="Вы ознакомились с делом и хорошо подготовились, теперь настал час суда, исход будет зависет от того защищаете ли вы преступника или невиновного&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3315" y="230" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-18" target="TeTj0I7tpyI8DVtLX8oe-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-18" target="TeTj0I7tpyI8DVtLX8oe-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-18" value="Судья - Крейг Кетелман обвиняется в хищении полутора миллиона долларов из областного бюджета, по закону штата ему грозит от 6 до 10 лет тюремного заключения, и конфискация имущества на эту сумму - Защита вам есть что возразить ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3565" y="180" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-19" target="I1buO0AAWqbio2FIKH-v-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-19" value="Конечно ваша честь" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3910" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-21" target="TeTj0I7tpyI8DVtLX8oe-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-21" value="Кетелманы - мы согласны" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3000" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-24" target="TeTj0I7tpyI8DVtLX8oe-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-24" value="Нет ваша честь" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3920" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-25" target="TeTj0I7tpyI8DVtLX8oe-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-25" value="Кетелман признал вину, спасибо мистер мак гилл вы свободны" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4090" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TeTj0I7tpyI8DVtLX8oe-28" target="I1buO0AAWqbio2FIKH-v-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeTj0I7tpyI8DVtLX8oe-28" value="Вы проиграли дело, поехать домой?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4040" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I1buO0AAWqbio2FIKH-v-1" target="I1buO0AAWqbio2FIKH-v-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-1" value="Вы просыпаетесь и видите по телевизору репортаж о том что кетелманы украли полтора миллиона долларов, в репортаже тут и там мелькает имя адвоката который разгромно проиграл дело (имеетесь в виду вы)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4250" y="205" width="210" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I1buO0AAWqbio2FIKH-v-2" target="I1buO0AAWqbio2FIKH-v-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-2" value="Это удар по моей карьере похоже с ней придется покончить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4489" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I1buO0AAWqbio2FIKH-v-5" target="I1buO0AAWqbio2FIKH-v-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-5" value="Вам стучатся в дверь - откройте это коллекторы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4640" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-7" value="Вас выселили, вашу контору закрыли, вам придется начать карьеру с начала." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4810" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I1buO0AAWqbio2FIKH-v-10" target="6I2-g3QOgkxtiF-PCfFm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-10" value="Ваша честь вы превышаете свои полномочия" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4360" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-11" value="Завуалированно намекнуть на взятку" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4555" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I1buO0AAWqbio2FIKH-v-12" target="I1buO0AAWqbio2FIKH-v-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I1buO0AAWqbio2FIKH-v-12" value="Шантожировать судью" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4270" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-1" target="6I2-g3QOgkxtiF-PCfFm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-1" target="6I2-g3QOgkxtiF-PCfFm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-1" value="Судья - простите что вы сказали?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4590" y="507" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-3" value="Вы сместили моего подзащитного с его должности ради собственной выгоды!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="605" width="129" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-4" target="TeTj0I7tpyI8DVtLX8oe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-4" value="Знаете вам послышалось, вернусь к делу." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4590" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4750" y="613" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-9" target="6I2-g3QOgkxtiF-PCfFm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-9" value="Вы&amp;nbsp; Крейг Кетелман вернет средства и он сознается в приступлении" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="845" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-10" target="6I2-g3QOgkxtiF-PCfFm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-10" value="Судья -&amp;nbsp;Крейг Кетелман вы согласны&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4430" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-13" target="6I2-g3QOgkxtiF-PCfFm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-13" value="Крейг да ваша честь я признаю вину и готов вернуть украденные средства." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="875" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-15" target="6I2-g3QOgkxtiF-PCfFm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-15" value="Чтож дело закрыто Крейг Кетелман приговаривается к 4 ггодам лишения свободы с возможностью уменьшить срок до 2 ле, с полным возмещением краденного - Заседание окончено" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4812" y="875" width="150" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6I2-g3QOgkxtiF-PCfFm-17" target="6I2-g3QOgkxtiF-PCfFm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-17" value="Уходя вы видите как бетси кетелман проводит вас злым взглядом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5010" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-18" value="На следующий день вы видете по теливизру репортаж по делу кетелманов, о беспрецендтном уменьшении срока до двух лет и честном адвакате уговорившем преступников сдаться" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5180" y="930" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-23" value="Настоять на перерыве и дать судье взятку передать судье часть денег" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4550" y="1320" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2-g3QOgkxtiF-PCfFm-24" value="начать угрожать судье судом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4549" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yzR0hf_6IVR_45WIsfBR" name="Страница — 5">
+    <mxGraphModel dx="487" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BBybFNXcU6wWSpKLVAmV-1" value="Переход сюда либо с секса по телефону и если кетелманы отказались от ваших услуг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="140" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PrEpI7vch7LGKyy8moy-" name="Страница — 6">
+    <mxGraphModel dx="436" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,151 @@
+.ibm-plex sans-thin {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+  
+.ibm-plex sans-bold-italic {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.countainer{
+    background-color:#2E3440;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    
+    
+}
+.text-biger{
+    font-size: 450%;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-style: normal;
+    color: white;
+    z-index: 9999;
+    float: left;
+    margin-left: 5%;
+    width: 100%;
+    text-align: left;
+}
+.block{
+    height: auto;
+    width: 50%;
+    margin-left: 3%;
+    background-color: #4C566A;
+    float: left;
+    border-right: 2px solid #D8DEE9;
+    border-left: 2px solid #D8DEE9;
+    border-bottom: 2px solid #D8DEE9;
+    border-top: 2px solid #D8DEE9;
+    padding-left: 2%;
+}
+.block-info_text{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;    
+    float: right;
+    height: 100%;
+    width: 100%;
+    
+
+}
+.block-text-image{
+    background-color: beige;
+    width: 40%;
+    height: auto;
+    z-index: 100;
+    float: right;
+    margin-right: 5%;
+
+    
+
+}
+.text-image{
+    margin-top:5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #000;
+}
+.image{
+    height: auto;
+    bottom: 0;
+    background-size: cover;
+    width: 200px;
+    height: 30%;
+
+    z-index: 9999;
+
+}
+.option {
+    font-size: 4vh;
+    width: 100%;
+    height: 25%;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: #4c566a00;
+    cursor: pointer;
+    border-right: 2px solid #D8DEE9;
+    border-left: 2px solid #D8DEE9;
+    border-bottom: 2px solid #D8DEE9;
+    border-top: 2px solid #D8DEE9;
+    z-index: 6;
+    transition: 2s;
+
+}
+#panel {
+    width: 250px;
+    background-color: #4C566A;
+    z-index: 9999;
+    float: left;
+    top: 0;
+    margin-right: 5%;
+    margin-left: 10%;
+    
+}
+@media screen and (width <800px)  and (width > 680px){
+    .block{
+        width: 300px;
+        border-right: 0px solid #D8DEE9;
+        border-left: 0px solid #D8DEE9;
+    }
+}
+@media screen and (width < 670px){
+    .block{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+
+    }
+    .text-biger{
+        font-size: 250%;
+    }
+    #panel{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 5%;
+    }
+    .option{
+        border-left: 0px;
+        border-right: 0px;
+    }
+    
+}

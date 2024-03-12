@@ -1,0 +1,929 @@
+<mxfile host="app.diagrams.net" modified="2024-03-12T05:19:26.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="guZ0o_hS-So8APR8HxLQ" version="24.0.2" type="device">
+  <diagram name="Страница — 1" id="yVWF9WBCzcyYJgI_TGAF">
+    <mxGraphModel dx="7514" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-2" target="8Q0AIF33NuAon_-2kuYe-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-2" value="Играть" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-6" target="8Q0AIF33NuAon_-2kuYe-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-6" value="Служебный телефон звонит" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-8" target="8Q0AIF33NuAon_-2kuYe-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-8" target="ZCL-PbtDYcXBpckHAgvj-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-8" value="Взять Трубку" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-10" target="8Q0AIF33NuAon_-2kuYe-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-10" value="Джеймс Мак Гил верно? Вам звонит Зинаида&amp;nbsp; Кифировна, мне нужны ваши услуги адвоката." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="540" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-58" value="&amp;nbsp;Я ее не очень люблю, но раз вы настаиваете я согласен." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-970" y="540" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-66" value="Из телефона - закончите разговор, у меня залипла кнопка." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-970" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-68" value="Бросить трубку и лечь спать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-970" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-91" target="8Q0AIF33NuAon_-2kuYe-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-91" value="Вы проверяете автоответчик и слышите очень много сообщений о долгах, и угрозы выселения" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="311" y="190" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-92" target="8Q0AIF33NuAon_-2kuYe-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-92" value="Черт возьми если мне не попадется какое ни будь рыбное дело.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="311" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-99" target="8Q0AIF33NuAon_-2kuYe-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-99" value="Здравствуйте, что у вас случилась?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-100" target="8Q0AIF33NuAon_-2kuYe-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-100" value="Я хочю написать завещание на внучку, а мой внук пытается запереть меня в психушку и забрать все себе!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="660" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-106" target="8Q0AIF33NuAon_-2kuYe-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-106" value="Хорошо завтра обсудим стратегию защиты, встретимся в кафе чачос мучачос." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="770" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-107" target="8Q0AIF33NuAon_-2kuYe-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-107" value="Следующий день" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-108" target="8Q0AIF33NuAon_-2kuYe-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-108" value="Вы находитесь в кафе Чачос мучачос, напротив вас сидит уродливая старушка и рассказывает вам о том насколько ее внук плохой а внучка хорошая" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="1030" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-112" target="8Q0AIF33NuAon_-2kuYe-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-112" value="Мой внук сатанист ! А дочь у меня чистая и безгрешная! Вот и все" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="820" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-114" target="8Q0AIF33NuAon_-2kuYe-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-114" value="Что конкретно сделал ваш сын?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="707" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-117" target="8Q0AIF33NuAon_-2kuYe-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-117" value="Он обьявил о продаже фермы которую я хочю завещать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-118" target="8Q0AIF33NuAon_-2kuYe-121" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-118" value="как он может ее продать если эта ферма принадлежит вам?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-121" target="8Q0AIF33NuAon_-2kuYe-123" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-121" value="Поэтому этот сатанист хчоет чтобы я оказалась в психушке!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-123" target="8Q0AIF33NuAon_-2kuYe-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-123" target="8Q0AIF33NuAon_-2kuYe-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-123" target="8Q0AIF33NuAon_-2kuYe-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-123" value="ОН подстроил несколько инцедентов чтобы упечь меня в психушку&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="960" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-125" target="8Q0AIF33NuAon_-2kuYe-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-125" value="Что конкретно он сделал ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-126" target="8Q0AIF33NuAon_-2kuYe-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-126" value="Почему он так поступает, вы пытались договориться?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-127" target="8Q0AIF33NuAon_-2kuYe-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-127" value="Что вы запислаи в завещании?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-128" target="8Q0AIF33NuAon_-2kuYe-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-128" value="Этот сатанист написал в психушку чтобы меня туда упекли!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-130" target="8Q0AIF33NuAon_-2kuYe-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-130" value="Еще он написал в суд что я не хочю отдавть ему ферму." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-132" target="8Q0AIF33NuAon_-2kuYe-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-132" value="Нас рассорили деньги! Доллар от сатаны! Он угрожает мне какой то мафией !!!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="1220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-133" target="8Q0AIF33NuAon_-2kuYe-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-133" target="8Q0AIF33NuAon_-2kuYe-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-133" value="Я записала внучке ферму и свою квартиру в городе" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-140" target="8Q0AIF33NuAon_-2kuYe-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-140" value="А внуку ? А этому дьяволу ничего !" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1361" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-144" target="8Q0AIF33NuAon_-2kuYe-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-144" value="Что вам сказали в психушке?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-147" target="8Q0AIF33NuAon_-2kuYe-150" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-147" target="8Q0AIF33NuAon_-2kuYe-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-147" value="Мне сказали что у меня дименция" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-150" target="8Q0AIF33NuAon_-2kuYe-176" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-150" value="Давайте оформим повторуню экспертизу чтобы доказать что вы в крепкой памати?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1540" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-152" target="8Q0AIF33NuAon_-2kuYe-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-152" value="Может предложить ему разделить ферму с внучкой?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-153" target="8Q0AIF33NuAon_-2kuYe-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-153" target="8Q0AIF33NuAon_-2kuYe-159" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-153" value="Я этого не позволю! он ее испортит !!!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-158" target="8Q0AIF33NuAon_-2kuYe-147" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="1840" />
+              <mxPoint x="1240" y="1840" />
+              <mxPoint x="1240" y="1410" />
+              <mxPoint x="1140" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-158" value="Я вас понял&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-159" target="8Q0AIF33NuAon_-2kuYe-160" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-159" value="А что думает внучка?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="1754" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-160" target="8Q0AIF33NuAon_-2kuYe-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-160" target="8Q0AIF33NuAon_-2kuYe-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-160" value="Она сама предлогала это но я против." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-166" target="8Q0AIF33NuAon_-2kuYe-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-166" value="Вам скоро помирать отстаньте от внуков, разделите имущество между ними&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="1910" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-167" target="8Q0AIF33NuAon_-2kuYe-172" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-167" value="Пойдемте в церковь, спросите у батюшки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-170" target="8Q0AIF33NuAon_-2kuYe-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-170" value="НЕТ и точка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-172" target="8Q0AIF33NuAon_-2kuYe-174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-172" value="Она согласилась и после разговора с батюшкой разделила имущество&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="2040" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-174" target="8Q0AIF33NuAon_-2kuYe-220" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-174" value="Батюшка сказал что с вашим внуком воюет сатана" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-176" target="8Q0AIF33NuAon_-2kuYe-177" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-176" value="Это отличаня идея я справлюсь!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-177" target="8Q0AIF33NuAon_-2kuYe-179" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-177" target="8Q0AIF33NuAon_-2kuYe-178" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-177" value="Вам на телефон поступает неизветсный звонок" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-178" target="8Q0AIF33NuAon_-2kuYe-180" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-178" value="Ответить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="1970" as="sourcePoint" />
+            <mxPoint x="1200" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-179" value="Сбросить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-180" target="8Q0AIF33NuAon_-2kuYe-179" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-180" target="8Q0AIF33NuAon_-2kuYe-190" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-180" value="я знаю что ты разговариваешь с моей бабушкйо помоги упечь ее в психушку!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="2000" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-190" target="8Q0AIF33NuAon_-2kuYe-193" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-190" value="Хорошо, но жду щедрой оплаты" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-193" target="8Q0AIF33NuAon_-2kuYe-194" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r72-Eu0Y9r7yr9bhBvxx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-193" target="8Q0AIF33NuAon_-2kuYe-195" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="2230" />
+              <mxPoint x="1060" y="2230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-193" value="Кто это мой внук?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-194" target="8Q0AIF33NuAon_-2kuYe-199" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-194" value="ДА" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-195" target="8Q0AIF33NuAon_-2kuYe-212" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-195" value="Нет" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-199" target="8Q0AIF33NuAon_-2kuYe-201" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-199" value="бабка очень силно разощлится" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-201" target="8Q0AIF33NuAon_-2kuYe-207" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-201" value="Я записал разговор теперь у нгас есть улика !" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="2480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-207" target="8Q0AIF33NuAon_-2kuYe-208" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-207" value="Подадим новый иск и поставим точку." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="2580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-208" target="8Q0AIF33NuAon_-2kuYe-210" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-208" value="Да это хорошая идея" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-210" target="8Q0AIF33NuAon_-2kuYe-222" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-210" value="Внука посадят в тюрьму суд выйгран" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-212" target="8Q0AIF33NuAon_-2kuYe-215" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-212" value="Подадим новый иск в психушку&amp;nbsp; (помочь внуку и подставить бабку)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="2420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-215" target="8Q0AIF33NuAon_-2kuYe-225" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-215" value="Бабушку признали невминяемой внук получил ферму, похже в офисе вы найдете конверт с 10 тысячами долларов.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="2490" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-220" target="8Q0AIF33NuAon_-2kuYe-237" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-220" value="Суд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-222" target="ZCL-PbtDYcXBpckHAgvj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-222" value="Суд&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-225" target="8Q0AIF33NuAon_-2kuYe-226" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-225" target="8Q0AIF33NuAon_-2kuYe-227" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-225" value="Вы заплатили по долгам и вам звонит знакомый вам человек, внук той старухи, он говорит что если вы непоможите его другу то ваш офис сожгет мексиканский наркокартель. Он диктует вам адрес и метсо на котором будет проходить встреча." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="2700" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-226" target="8Q0AIF33NuAon_-2kuYe-232" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-226" value="Остатся в офисе&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="2950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-227" target="8Q0AIF33NuAon_-2kuYe-242" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-227" value="Пойти на встречу" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="2980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-232" target="8Q0AIF33NuAon_-2kuYe-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-232" value="Вы пьете чай в офисе, к вам врываються боевики картеля и убивают вас.." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="3070" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-233" value="плохая концовка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="3240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-237" target="8Q0AIF33NuAon_-2kuYe-259" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-237" value="Вы спокойно выйграете суд и не будете иметь дел с картелем." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1900" y="2210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-238" target="8Q0AIF33NuAon_-2kuYe-232" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2030" y="2780" />
+              <mxPoint x="2030" y="2950" />
+              <mxPoint x="920" y="2950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-238" value="После победы на суде вы празднуете в офисе победу, спокойно пьете чай" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-242" target="8Q0AIF33NuAon_-2kuYe-244" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-242" target="8Q0AIF33NuAon_-2kuYe-257" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-242" value="Вы приезжаете на своей развалюхе к каким то складским помещениям&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="3101" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-244" target="8Q0AIF33NuAon_-2kuYe-247" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-244" target="8Q0AIF33NuAon_-2kuYe-250" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-244" target="8Q0AIF33NuAon_-2kuYe-252" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-244" value="Развернуться и обратиться в полицию" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="3300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-246" value="Вы попадаете под программу защиты свидетелей и живете в совсем другом штате, об карьере адвоката вам приходиться забыть&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="3470" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-247" target="8Q0AIF33NuAon_-2kuYe-246" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-247" value="Обратиться в защиту свидетелей" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="3390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-250" target="8Q0AIF33NuAon_-2kuYe-232" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-250" value="Поехеать обратно в офис" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-252" target="8Q0AIF33NuAon_-2kuYe-232" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-252" value="Подать заявление в полицию и поехать в офис" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="3370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-257" target="0O6jvxU1pLf8SeM6es06-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-257" value="Выйти из машины и ждать куратора&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="3146" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-259" target="8Q0AIF33NuAon_-2kuYe-260" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-259" value="На следующей день вы стоите в зале суда и судья дает вам слово&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-260" target="8Q0AIF33NuAon_-2kuYe-263" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-260" value="Моя подзащитная нашла примирение с внуком и хочет разделить имущество, между ее внуком и внучкой" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2250" y="2195" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Q0AIF33NuAon_-2kuYe-263" target="0O6jvxU1pLf8SeM6es06-166" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2600" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Q0AIF33NuAon_-2kuYe-263" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Суд по сути проходит без вашего участия, стороны мерятся а старушка сердечно вас благодарит&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="2200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-1" target="0O6jvxU1pLf8SeM6es06-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Через какое-то время вам подойдет мексиканская внешность&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="3146" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-3" target="0O6jvxU1pLf8SeM6es06-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Моего подручного поймали легавые и ему светит 8 лет тюрьмы&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="3164" width="100" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-6" target="0O6jvxU1pLf8SeM6es06-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Сечешь, ты должен либо помочь ему освободиться либо хотя бы&amp;nbsp; скостить срок до года&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="3179" width="130" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-9" target="0O6jvxU1pLf8SeM6es06-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-9" target="0O6jvxU1pLf8SeM6es06-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Откажешься и ты долго не прожтвешь, ты уже помог мне вчера так помоги и сегодня&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2068" y="3179" width="120" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-11" target="0O6jvxU1pLf8SeM6es06-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Отказаться&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="3179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вас убили гангстеры&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2400" y="3180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-15" target="0O6jvxU1pLf8SeM6es06-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Согласиться работать на мафию&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="3280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-17" target="0O6jvxU1pLf8SeM6es06-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Изменение прикида на скользкого Джимми&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2390" y="3280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-19" target="0O6jvxU1pLf8SeM6es06-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;На следующий день вы обсуждаете защиту с Начо Варго, наркоторговцем и другом вашего куратора из мафии из материалов дела вы узнаёте что ему светит 10 лет, в его фургоне была найдена кровь и ему пришили дело об убийстве какой то женщины.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2570" y="3225" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-21" target="0O6jvxU1pLf8SeM6es06-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Начо - скажите мне что вы сделали из преступлений врать буду я а не вы.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2800" y="3273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-26" target="0O6jvxU1pLf8SeM6es06-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-26" target="0O6jvxU1pLf8SeM6es06-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Он вглядывается в вас и говорит - с мусорами не разговариваю&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2980" y="3230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-27" target="0O6jvxU1pLf8SeM6es06-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-27" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Меня прислал твой брат для твоей защиты&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3130" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-29" target="0O6jvxU1pLf8SeM6es06-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-29" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Я не полоицейский а твой адвокат&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3130" y="3320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-34" target="0O6jvxU1pLf8SeM6es06-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-34" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Теперь скажи мне все что случилось с тобой и как ты тут оказался&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3340" y="3202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-37" target="0O6jvxU1pLf8SeM6es06-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-37" target="0O6jvxU1pLf8SeM6es06-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-37" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;-Начо - я арендовал фургон чтобы привезти партию мефедрона&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3500" y="3202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-40" target="0O6jvxU1pLf8SeM6es06-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-40" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вы - эммм окей, а кровь чья ты никого не убивал?&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3670" y="3213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-41" target="0O6jvxU1pLf8SeM6es06-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-41" target="0O6jvxU1pLf8SeM6es06-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-41" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Начо - клянусь мужик я может и подонок но никогда бы не убил беззащитную женщину!&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3830" y="3193" width="140" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-45" target="0O6jvxU1pLf8SeM6es06-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-45" value="Я подам иск и напишу , мой подсудрмый мал и глуп, он не видал больших залуп" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3710" y="3440" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-46" target="0O6jvxU1pLf8SeM6es06-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-46" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вы можете признать вину это скастит вам пару лет&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3770" y="3590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-53" target="0O6jvxU1pLf8SeM6es06-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-53" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Давай мужик а то я воооообще ракеееееееееета&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="3550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-54" target="0O6jvxU1pLf8SeM6es06-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-54" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Нет мужик я не готов сидеть 8 лет вместо 10.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3510" y="3610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-71" target="0O6jvxU1pLf8SeM6es06-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-71" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Настал день суда - тут решается не только судьба вашего подзащитного но и ваша судьба&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3188" y="3660" width="162" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-72" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Сдать копам и попасть под защиту свидетелей&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3690" y="3086" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-76" target="0O6jvxU1pLf8SeM6es06-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-76" value="Поговорить с Начо" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3110" y="3860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-77" target="0O6jvxU1pLf8SeM6es06-159" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-77" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Договорились я закрою тебя в дурку на 2 года, ведём себя максимально неадекватно&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3050" y="3980" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-80" target="0O6jvxU1pLf8SeM6es06-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-80" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Судья - Начо Варго обвиняется в убийстве и наркоторговле&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2910" y="4130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-81" target="0O6jvxU1pLf8SeM6es06-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-81" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Защите есть что сказать ?&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2950" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-86" target="ZCL-PbtDYcXBpckHAgvj-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-86" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Все верно поэтому обвинения беспочвенны, мой клиент просто был неадекватным&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2570" y="4680" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-90" target="0O6jvxU1pLf8SeM6es06-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-90" target="0O6jvxU1pLf8SeM6es06-135" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-90" target="0O6jvxU1pLf8SeM6es06-137" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-90" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Обсудить убийство.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3090" y="4330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-91" target="0O6jvxU1pLf8SeM6es06-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-91" target="0O6jvxU1pLf8SeM6es06-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-91" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Обсудить наркоторговлю&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2835" y="4330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-94" target="0O6jvxU1pLf8SeM6es06-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-94" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Мой подсудимый не замешан в дистребьюции метамфитамина ваша честь&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2740" y="4460" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2899.2222222222217" y="4720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-95" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Начо - Это неправда, я толкаю наркотики даже в детском садике и вообще везде, где угодно.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2840" y="4610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-96" target="0O6jvxU1pLf8SeM6es06-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-96" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Он лиш выполнял роль курьера, не более причем он даже не знал какой груз&amp;nbsp; перевозит&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2920" y="4470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-100" target="0O6jvxU1pLf8SeM6es06-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-100" target="ZCL-PbtDYcXBpckHAgvj-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-100" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Все в суде в шоке от признания начо&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2840" y="4720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-101" target="0O6jvxU1pLf8SeM6es06-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-101" target="0O6jvxU1pLf8SeM6es06-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-101" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вот видите ваша честь мой подзащитный невменяемый&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2715" y="4850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-102" target="0O6jvxU1pLf8SeM6es06-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-102" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Он толкал не наркотики а детские игрушки и всякие безобидные штуки!&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.614;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-100" target="0O6jvxU1pLf8SeM6es06-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-105" target="0O6jvxU1pLf8SeM6es06-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-105" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;КАртель заставил меня его защищать, он во всем виноват!&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3090" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-106" target="0O6jvxU1pLf8SeM6es06-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-106" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Судья хм даже если так что за кровь в фургоне&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2670" y="4960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-108" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Рассказать версию начо&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3100" y="4470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-112" target="0O6jvxU1pLf8SeM6es06-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-112" target="0O6jvxU1pLf8SeM6es06-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-112" target="0O6jvxU1pLf8SeM6es06-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-112" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Что вы только что сказали ?&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2990" y="4940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-116" target="0O6jvxU1pLf8SeM6es06-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-116" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;По программе защиты свидетелей вас увощят в россию где вы начинаете новую жизнь&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3650" y="4820" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-120" target="0O6jvxU1pLf8SeM6es06-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-120" target="0O6jvxU1pLf8SeM6es06-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-120" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Он толкал не наркотики а детские игрушки и всякие безобидные штуки!&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3010" y="5170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-122" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вас лишил адвакатской лицензии и офис сожгли люди картеля&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3130" y="5261" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-124" target="0O6jvxU1pLf8SeM6es06-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-124" target="0O6jvxU1pLf8SeM6es06-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-124" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вернемся к делу&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2840" y="5150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-135" target="0O6jvxU1pLf8SeM6es06-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-135" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Это не кровь а томатный сок&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3308" y="4480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-137" target="0O6jvxU1pLf8SeM6es06-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-137" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Это моя кровь а начо в меня стрелял !&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3480" y="4500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-140" target="0O6jvxU1pLf8SeM6es06-142" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-140" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Судья пребывает в некотором замешательстве и тут двери суда распахиваються и туда забегает детектив&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3250" y="4600" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-142" target="0O6jvxU1pLf8SeM6es06-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-142" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Он показывает договор об аренде фургона судье и тот соглашается с версией подсудимого&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="4770" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-144" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Судья оглашает приговор 2 года колонии за перевозку наркотиков&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3470" y="4940" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-145" target="0O6jvxU1pLf8SeM6es06-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-145" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;После этого дела вы празднуете победу в своем офисе, как вдруг у вас за спиной оказывается куратор из картеля&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3400" y="5070" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-146" target="0O6jvxU1pLf8SeM6es06-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-146" target="0O6jvxU1pLf8SeM6es06-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-146" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Куратор - Ты хочешь стать другом картеля ?&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3420" y="5210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-147" target="0O6jvxU1pLf8SeM6es06-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-147" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Да&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3380" y="5320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-148" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Теперь вы Сол гудман, все приступникик города обращаються к вам за помощью&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3360" y="5440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-149" target="0O6jvxU1pLf8SeM6es06-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-149" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Нет&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3540" y="5330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-153" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вы спокойно прододжаете совю работу но у вас скверная репутация защитника преступников.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3520" y="5440" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.59;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-144" target="0O6jvxU1pLf8SeM6es06-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0O6jvxU1pLf8SeM6es06-159" target="0O6jvxU1pLf8SeM6es06-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-159" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Суд&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3120" y="4130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-166" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вы снискали славу хорошего семейного адваката&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2630" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6jvxU1pLf8SeM6es06-168" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Эй агузок, ты даже банан почистить не можешь!&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3810" y="4860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZCL-PbtDYcXBpckHAgvj-2" target="8Q0AIF33NuAon_-2kuYe-238" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-2" value="Вам достаточно было продемонстрировать ваш телефонный разговор&amp;nbsp; как судья тут же встал на вашу сторону&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1774" y="2510" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-9" value="Вы уезжаете в росиию начинатее новую жизнь снимась всериале кухня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3840" y="3090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZCL-PbtDYcXBpckHAgvj-13" target="0O6jvxU1pLf8SeM6es06-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-13" value="Начо упекли в психушке на два года, можете считать что вы выиграли дело&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2540" y="4810" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZCL-PbtDYcXBpckHAgvj-20" target="0O6jvxU1pLf8SeM6es06-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вот видите ваша честь мой подзащитный невменяемый&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2580" y="4590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZCL-PbtDYcXBpckHAgvj-23" target="ZCL-PbtDYcXBpckHAgvj-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-23" value="Не брать трубку" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="ZCL-PbtDYcXBpckHAgvj-26" target="ZCL-PbtDYcXBpckHAgvj-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-26" value="Вы заснули под звуки звонящего телефона" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-27" value="Вас выселили за нуплату" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZCL-PbtDYcXBpckHAgvj-30" target="8Q0AIF33NuAon_-2kuYe-177" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCL-PbtDYcXBpckHAgvj-30" value="Тут я остановился&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

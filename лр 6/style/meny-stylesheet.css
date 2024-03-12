@@ -1,0 +1,123 @@
+.ibm-plex sans-thin {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.ibm-plex sans-bold-italic {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.playpen-sans {
+    font-family: "Playpen Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.countainer{
+    height: 100vh;
+    width: 100%;
+    background-color: #2E3440;
+    z-index: -2;
+    margin: 0%;
+    overflow-y: hidden;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.to-play{
+    height: 20%;
+    width:50%;
+}
+#panel {
+    width: 40%;
+    background-color:#b2b777;
+    overflow: hidden;
+    z-index: 9999;
+    height: auto;
+    transform: translate(-50%, -50%);
+    bottom: 0;
+    text-align: center;
+    position: absolute;
+    margin-right: 50%;
+    margin-left: 50%;
+    border-radius: 20px;
+    height: auto;
+    border: 2px solid black;
+
+
+    
+
+}
+.video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+.text{
+    font-size: 4vh;
+    width: 98.59%;
+    height: 100%;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: yellow;
+    cursor: pointer;
+    border-right: 10px solid #D8DEE9;
+    border-left: 4px solid #D8DEE9;
+    border-bottom: 2px solid #D8DEE9;
+    border-top: 1px solid #D8DEE9;
+    z-index: 9999;
+    transition: 2s;
+    transform: scale(100%,1);
+    padding:20%;
+
+}
+.background{
+    height: 100vh;
+    width: 100vw;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-image: url('/assets/image/relly_endibg303.png');
+}
+
+.countainer{
+    height: 100vh;
+    width: 100%;
+    background-color: #2E3440;
+    z-index: -2;
+    margin: 0%;
+    overflow-y: hidden;
+    
+    
+}
+.option {
+    width: 100%;
+    height: 40%;
+    font-size: 750;
+    font-family: "Playpen Sans", cursive;
+    font-style: normal;
+    color: #df0303;
+    text-align: center;
+    background-color: #4c566a00;
+    cursor: pointer;
+    border-top: 1px solid black;
+    z-index: 6;
+    transition: 2s;
+    font-size: larger;
+    font-weight: 700;
+    text-shadow: 2px 2px 1px #333, -1px -1px 0 #0ff;
+}
+@media screen and (width< 600px) {
+    video {
+        width: 100%;
+        height: 100vh;
+    }
+
+}

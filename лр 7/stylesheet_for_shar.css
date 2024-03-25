@@ -1,0 +1,43 @@
+.ball{
+    margin-left: 25%;
+    background:linear-gradient(rgb(111, 109, 109),black);
+    border-radius: 90%;
+    height: 500px;
+    width: 500px;
+    transform-style: preserve-3d;
+    filter: blur(1px);
+    display: flex;
+    position: absolute;
+}
+.in_the_ball{
+    margin-top: 10%;
+    margin-left: 25%;
+    height: 250px;
+    width: 250px;
+    border-radius: 90%;
+    z-index: 1000;
+    background:linear-gradient(white,rgb(108, 106, 106));
+    position: relative;
+    
+}
+.eche_one_cryg{
+    border-radius: 90%;
+    width: 500px;
+    height: 200px;
+    z-index: -1;
+    background-color: black;
+    margin-left: 25%;
+    filter: blur(10px);
+    margin-bottom: 20%;
+    position: absolute;
+    top: 55%;
+}
+#ball_text{
+    margin-left:30%;
+    height: 100px;
+    width: 100px;
+    margin-top: 30%;
+    border-radius: 50px;
+    font-size: 70%;
+    filter: none;
+}
